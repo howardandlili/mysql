@@ -59,6 +59,7 @@ class Student(School_Member):
     #定义学生的功能
     def listen(self):
         print('%s在听%s'%(self.name,self.course))
+    #试试看
 
 
 
